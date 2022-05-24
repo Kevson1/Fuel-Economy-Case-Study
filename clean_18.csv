@@ -1,0 +1,77 @@
+,model,displ,cyl,trans,drive,fuel,veh_class,air_pollution_score,city_mpg,hwy_mpg,cmb_mpg,greenhouse_gas_score,smartway
+0,BMW 330e,2.0,4,SemiAuto-8,2WD,Gasoline,small car,3.0,28.0,34.0,30.0,10,Yes
+1,BMW 530e,2.0,4,SemiAuto-8,2WD,Gasoline,small car,7.0,27.0,31.0,29.0,10,Elite
+2,BMW 530e,2.0,4,SemiAuto-8,4WD,Gasoline,small car,7.0,27.0,31.0,28.0,10,Elite
+3,BMW 740e,2.0,4,SemiAuto-8,4WD,Gasoline,large car,3.0,25.0,29.0,27.0,9,Yes
+4,CHEVROLET Impala,3.6,6,SemiAuto-6,2WD,Ethanol,large car,5.0,14.0,20.0,16.0,4,No
+5,CHEVROLET Silverado 15,4.3,6,Auto-6,2WD,Ethanol,pickup,5.0,12.0,16.0,14.0,4,No
+6,CHEVROLET Silverado 15,4.3,6,Auto-6,4WD,Ethanol,pickup,5.0,12.0,15.0,13.0,3,No
+7,CHEVROLET Silverado 15,5.3,8,Auto-6,2WD,Ethanol,pickup,3.0,12.0,17.0,14.0,3,No
+8,CHEVROLET Suburban 1500,5.3,8,Auto-6,2WD,Ethanol,standard SUV,3.0,12.0,17.0,14.0,3,No
+9,CHEVROLET Suburban 1500,5.3,8,Auto-6,4WD,Ethanol,standard SUV,3.0,11.0,15.0,12.0,3,No
+10,CHEVROLET Tahoe 1500,5.3,8,Auto-6,2WD,Ethanol,standard SUV,3.0,12.0,17.0,14.0,3,No
+11,CHEVROLET Tahoe 1500,5.3,8,Auto-6,4WD,Ethanol,standard SUV,3.0,11.0,16.0,13.0,3,No
+12,CHEVROLET Volt,1.5,4,CVT,2WD,Gasoline,small car,3.0,43.0,42.0,42.0,10,Yes
+13,CHEVROLET Volt,1.5,4,CVT,2WD,Gasoline,small car,7.0,43.0,42.0,42.0,10,Elite
+14,CHRYSLER 300,3.6,6,Auto-8,2WD,Ethanol,large car,3.0,14.0,22.0,17.0,5,No
+15,CHRYSLER 300,3.6,6,Auto-8,4WD,Ethanol,large car,3.0,13.0,20.0,16.0,4,No
+16,DODGE Charger,3.6,6,Auto-8,2WD,Ethanol,large car,3.0,14.0,22.0,17.0,5,No
+17,DODGE Charger,3.6,6,Auto-8,4WD,Ethanol,large car,3.0,13.0,20.0,16.0,4,No
+18,FORD Fusion Energi Plug-in Hybrid,2.0,4,CVT,2WD,Gasoline,midsize car,7.0,43.0,41.0,42.0,10,Elite
+19,GMC Sierra 15,4.3,6,Auto-6,2WD,Ethanol,pickup,5.0,12.0,16.0,14.0,4,No
+20,GMC Sierra 15,4.3,6,Auto-6,4WD,Ethanol,pickup,5.0,12.0,15.0,13.0,3,No
+21,GMC Sierra 15,5.3,8,Auto-6,2WD,Ethanol,pickup,3.0,12.0,17.0,14.0,3,No
+22,GMC Yukon 1500,5.3,8,Auto-6,2WD,Ethanol,standard SUV,3.0,12.0,17.0,14.0,3,No
+23,GMC Yukon 1500,5.3,8,Auto-6,4WD,Ethanol,standard SUV,3.0,11.0,16.0,13.0,3,No
+24,GMC Yukon 1500 XL,5.3,8,Auto-6,2WD,Ethanol,standard SUV,3.0,12.0,17.0,14.0,3,No
+25,GMC Yukon XL 1500,5.3,8,Auto-6,4WD,Ethanol,standard SUV,3.0,11.0,15.0,12.0,3,No
+26,JEEP Cherokee,2.4,4,Auto-9,2WD,Ethanol,small SUV,3.0,15.0,22.0,18.0,5,No
+27,JEEP Cherokee,2.4,4,Auto-9,4WD,Ethanol,small SUV,3.0,14.0,21.0,17.0,5,No
+28,KARMA Revero,2.0,4,Auto-1,2WD,Gasoline,small car,1.0,20.0,21.0,20.0,10,No
+29,MERCEDES-BENZ CLA250 4Matic,2.0,4,AutoMan-7,4WD,Ethanol,small car,5.0,17.0,24.0,20.0,6,No
+30,MERCEDES-BENZ GLA250 4Matic,2.0,4,AutoMan-7,4WD,Ethanol,small SUV,5.0,17.0,23.0,19.0,5,No
+31,MERCEDES-BENZ GLE350 4Matic,3.5,6,Auto-7,4WD,Ethanol,standard SUV,3.0,13.0,17.0,14.0,3,No
+32,MINI Cooper SE Countryman All4,1.5,3,SemiAuto-6,4WD,Gasoline,midsize car,3.0,28.0,27.0,27.0,9,Yes
+33,TOYOTA Sequoia FFV,5.7,8,SemiAuto-6,4WD,Ethanol,standard SUV,5.0,9.0,13.0,10.0,1,No
+34,TOYOTA Tundra FFV,5.7,8,SemiAuto-6,4WD,Ethanol,pickup,5.0,9.0,12.0,10.0,2,No
+35,VOLVO S90,2.0,4,SemiAuto-8,4WD,Gasoline,midsize car,7.0,26.0,33.0,29.0,10,Elite
+36,VOLVO XC 60,2.0,4,SemiAuto-8,4WD,Gasoline,small SUV,7.0,26.0,28.0,26.0,10,Elite
+37,VOLVO XC 90,2.0,4,SemiAuto-8,4WD,Gasoline,standard SUV,7.0,26.0,30.0,27.0,10,Elite
+38,BMW 330e,2.0,4,SemiAuto-8,2WD,Electricity,small car,3.0,66.0,78.0,71.0,10,Yes
+39,BMW 530e,2.0,4,SemiAuto-8,2WD,Electricity,small car,7.0,70.0,75.0,72.0,10,Elite
+40,BMW 530e,2.0,4,SemiAuto-8,4WD,Electricity,small car,7.0,66.0,68.0,67.0,10,Elite
+41,BMW 740e,2.0,4,SemiAuto-8,4WD,Electricity,large car,3.0,62.0,68.0,64.0,9,Yes
+42,CHEVROLET Impala,3.6,6,SemiAuto-6,2WD,Gas,large car,5.0,18.0,28.0,22.0,4,No
+43,CHEVROLET Silverado 15,4.3,6,Auto-6,2WD,Gas,pickup,5.0,18.0,24.0,20.0,4,No
+44,CHEVROLET Silverado 15,4.3,6,Auto-6,4WD,Gas,pickup,5.0,17.0,22.0,19.0,3,No
+45,CHEVROLET Silverado 15,5.3,8,Auto-6,2WD,Gas,pickup,3.0,16.0,23.0,19.0,3,No
+46,CHEVROLET Suburban 1500,5.3,8,Auto-6,2WD,Gas,standard SUV,3.0,16.0,23.0,19.0,3,No
+47,CHEVROLET Suburban 1500,5.3,8,Auto-6,4WD,Gas,standard SUV,3.0,16.0,22.0,18.0,3,No
+48,CHEVROLET Tahoe 1500,5.3,8,Auto-6,2WD,Gas,standard SUV,3.0,16.0,23.0,19.0,3,No
+49,CHEVROLET Tahoe 1500,5.3,8,Auto-6,4WD,Gas,standard SUV,3.0,16.0,22.0,18.0,3,No
+50,CHEVROLET Volt,1.5,4,CVT,2WD,Electricity,small car,3.0,113.0,99.0,106.0,10,Yes
+51,CHEVROLET Volt,1.5,4,CVT,2WD,Electricity,small car,7.0,113.0,99.0,106.0,10,Elite
+52,CHRYSLER 300,3.6,6,Auto-8,2WD,Gas,large car,3.0,19.0,30.0,23.0,5,No
+53,CHRYSLER 300,3.6,6,Auto-8,4WD,Gas,large car,3.0,18.0,27.0,21.0,4,No
+54,DODGE Charger,3.6,6,Auto-8,2WD,Gas,large car,3.0,19.0,30.0,23.0,5,No
+55,DODGE Charger,3.6,6,Auto-8,4WD,Gas,large car,3.0,18.0,27.0,21.0,4,No
+56,FORD Fusion Energi Plug-in Hybrid,2.0,4,CVT,2WD,Electricity,midsize car,7.0,102.0,91.0,97.0,10,Elite
+57,GMC Sierra 15,4.3,6,Auto-6,2WD,Gas,pickup,5.0,18.0,24.0,20.0,4,No
+58,GMC Sierra 15,4.3,6,Auto-6,4WD,Gas,pickup,5.0,17.0,22.0,19.0,3,No
+59,GMC Sierra 15,5.3,8,Auto-6,2WD,Gas,pickup,3.0,16.0,23.0,19.0,3,No
+60,GMC Yukon 1500,5.3,8,Auto-6,2WD,Gas,standard SUV,3.0,16.0,23.0,19.0,3,No
+61,GMC Yukon 1500,5.3,8,Auto-6,4WD,Gas,standard SUV,3.0,16.0,22.0,18.0,3,No
+62,GMC Yukon 1500 XL,5.3,8,Auto-6,2WD,Gas,standard SUV,3.0,16.0,23.0,19.0,3,No
+63,GMC Yukon XL 1500,5.3,8,Auto-6,4WD,Gas,standard SUV,3.0,16.0,22.0,18.0,3,No
+64,JEEP Cherokee,2.4,4,Auto-9,2WD,Gas,small SUV,3.0,21.0,30.0,25.0,5,No
+65,JEEP Cherokee,2.4,4,Auto-9,4WD,Gas,small SUV,3.0,21.0,28.0,23.0,5,No
+66,KARMA Revero,2.0,4,Auto-1,2WD,Electricity,small car,1.0,59.0,61.0,60.0,10,No
+67,MERCEDES-BENZ CLA250 4Matic,2.0,4,AutoMan-7,4WD,Gas,small car,5.0,24.0,32.0,27.0,6,No
+68,MERCEDES-BENZ GLA250 4Matic,2.0,4,AutoMan-7,4WD,Gas,small SUV,5.0,23.0,31.0,26.0,5,No
+69,MERCEDES-BENZ GLE350 4Matic,3.5,6,Auto-7,4WD,Gas,standard SUV,3.0,18.0,22.0,19.0,3,No
+70,MINI Cooper SE Countryman All4,1.5,3,SemiAuto-6,4WD,Electricity,midsize car,3.0,63.0,66.0,65.0,9,Yes
+71,TOYOTA Sequoia FFV,5.7,8,SemiAuto-6,4WD,Gas,standard SUV,5.0,13.0,17.0,14.0,1,No
+72,TOYOTA Tundra FFV,5.7,8,SemiAuto-6,4WD,Gas,pickup,5.0,13.0,17.0,15.0,2,No
+73,VOLVO S90,2.0,4,SemiAuto-8,4WD,Electricity,midsize car,7.0,70.0,72.0,71.0,10,Elite
+74,VOLVO XC 60,2.0,4,SemiAuto-8,4WD,Electricity,small SUV,7.0,60.0,58.0,59.0,10,Elite
+75,VOLVO XC 90,2.0,4,SemiAuto-8,4WD,Electricity,standard SUV,7.0,63.0,61.0,62.0,10,Elite

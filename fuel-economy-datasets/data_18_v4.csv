@@ -1,0 +1,77 @@
+model,displ,cyl,trans,drive,fuel,veh_class,air_pollution_score,city_mpg,hwy_mpg,cmb_mpg,greenhouse_gas_score,smartway
+BMW 330e,2.0,4,SemiAuto-8,2WD,Gasoline,small car,3.0,28,34,30,10,Yes
+BMW 530e,2.0,4,SemiAuto-8,2WD,Gasoline,small car,7.0,27,31,29,10,Elite
+BMW 530e,2.0,4,SemiAuto-8,4WD,Gasoline,small car,7.0,27,31,28,10,Elite
+BMW 740e,2.0,4,SemiAuto-8,4WD,Gasoline,large car,3.0,25,29,27,9,Yes
+CHEVROLET Impala,3.6,6,SemiAuto-6,2WD,Ethanol,large car,5.0,14,20,16,4,No
+CHEVROLET Silverado 15,4.3,6,Auto-6,2WD,Ethanol,pickup,5.0,12,16,14,4,No
+CHEVROLET Silverado 15,4.3,6,Auto-6,4WD,Ethanol,pickup,5.0,12,15,13,3,No
+CHEVROLET Silverado 15,5.3,8,Auto-6,2WD,Ethanol,pickup,3.0,12,17,14,3,No
+CHEVROLET Suburban 1500,5.3,8,Auto-6,2WD,Ethanol,standard SUV,3.0,12,17,14,3,No
+CHEVROLET Suburban 1500,5.3,8,Auto-6,4WD,Ethanol,standard SUV,3.0,11,15,12,3,No
+CHEVROLET Tahoe 1500,5.3,8,Auto-6,2WD,Ethanol,standard SUV,3.0,12,17,14,3,No
+CHEVROLET Tahoe 1500,5.3,8,Auto-6,4WD,Ethanol,standard SUV,3.0,11,16,13,3,No
+CHEVROLET Volt,1.5,4,CVT,2WD,Gasoline,small car,3.0,43,42,42,10,Yes
+CHEVROLET Volt,1.5,4,CVT,2WD,Gasoline,small car,7.0,43,42,42,10,Elite
+CHRYSLER 300,3.6,6,Auto-8,2WD,Ethanol,large car,3.0,14,22,17,5,No
+CHRYSLER 300,3.6,6,Auto-8,4WD,Ethanol,large car,3.0,13,20,16,4,No
+DODGE Charger,3.6,6,Auto-8,2WD,Ethanol,large car,3.0,14,22,17,5,No
+DODGE Charger,3.6,6,Auto-8,4WD,Ethanol,large car,3.0,13,20,16,4,No
+FORD Fusion Energi Plug-in Hybrid,2.0,4,CVT,2WD,Gasoline,midsize car,7.0,43,41,42,10,Elite
+GMC Sierra 15,4.3,6,Auto-6,2WD,Ethanol,pickup,5.0,12,16,14,4,No
+GMC Sierra 15,4.3,6,Auto-6,4WD,Ethanol,pickup,5.0,12,15,13,3,No
+GMC Sierra 15,5.3,8,Auto-6,2WD,Ethanol,pickup,3.0,12,17,14,3,No
+GMC Yukon 1500,5.3,8,Auto-6,2WD,Ethanol,standard SUV,3.0,12,17,14,3,No
+GMC Yukon 1500,5.3,8,Auto-6,4WD,Ethanol,standard SUV,3.0,11,16,13,3,No
+GMC Yukon 1500 XL,5.3,8,Auto-6,2WD,Ethanol,standard SUV,3.0,12,17,14,3,No
+GMC Yukon XL 1500,5.3,8,Auto-6,4WD,Ethanol,standard SUV,3.0,11,15,12,3,No
+JEEP Cherokee,2.4,4,Auto-9,2WD,Ethanol,small SUV,3.0,15,22,18,5,No
+JEEP Cherokee,2.4,4,Auto-9,4WD,Ethanol,small SUV,3.0,14,21,17,5,No
+KARMA Revero,2.0,4,Auto-1,2WD,Gasoline,small car,1.0,20,21,20,10,No
+MERCEDES-BENZ CLA250 4Matic,2.0,4,AutoMan-7,4WD,Ethanol,small car,5.0,17,24,20,6,No
+MERCEDES-BENZ GLA250 4Matic,2.0,4,AutoMan-7,4WD,Ethanol,small SUV,5.0,17,23,19,5,No
+MERCEDES-BENZ GLE350 4Matic,3.5,6,Auto-7,4WD,Ethanol,standard SUV,3.0,13,17,14,3,No
+MINI Cooper SE Countryman All4,1.5,3,SemiAuto-6,4WD,Gasoline,midsize car,3.0,28,27,27,9,Yes
+TOYOTA Sequoia FFV,5.7,8,SemiAuto-6,4WD,Ethanol,standard SUV,5.0,9,13,10,1,No
+TOYOTA Tundra FFV,5.7,8,SemiAuto-6,4WD,Ethanol,pickup,5.0,9,12,10,2,No
+VOLVO S90,2.0,4,SemiAuto-8,4WD,Gasoline,midsize car,7.0,26,33,29,10,Elite
+VOLVO XC 60,2.0,4,SemiAuto-8,4WD,Gasoline,small SUV,7.0,26,28,26,10,Elite
+VOLVO XC 90,2.0,4,SemiAuto-8,4WD,Gasoline,standard SUV,7.0,26,30,27,10,Elite
+BMW 330e,2.0,4,SemiAuto-8,2WD,Electricity,small car,3.0,66,78,71,10,Yes
+BMW 530e,2.0,4,SemiAuto-8,2WD,Electricity,small car,7.0,70,75,72,10,Elite
+BMW 530e,2.0,4,SemiAuto-8,4WD,Electricity,small car,7.0,66,68,67,10,Elite
+BMW 740e,2.0,4,SemiAuto-8,4WD,Electricity,large car,3.0,62,68,64,9,Yes
+CHEVROLET Impala,3.6,6,SemiAuto-6,2WD,Gas,large car,5.0,18,28,22,4,No
+CHEVROLET Silverado 15,4.3,6,Auto-6,2WD,Gas,pickup,5.0,18,24,20,4,No
+CHEVROLET Silverado 15,4.3,6,Auto-6,4WD,Gas,pickup,5.0,17,22,19,3,No
+CHEVROLET Silverado 15,5.3,8,Auto-6,2WD,Gas,pickup,3.0,16,23,19,3,No
+CHEVROLET Suburban 1500,5.3,8,Auto-6,2WD,Gas,standard SUV,3.0,16,23,19,3,No
+CHEVROLET Suburban 1500,5.3,8,Auto-6,4WD,Gas,standard SUV,3.0,16,22,18,3,No
+CHEVROLET Tahoe 1500,5.3,8,Auto-6,2WD,Gas,standard SUV,3.0,16,23,19,3,No
+CHEVROLET Tahoe 1500,5.3,8,Auto-6,4WD,Gas,standard SUV,3.0,16,22,18,3,No
+CHEVROLET Volt,1.5,4,CVT,2WD,Electricity,small car,3.0,113,99,106,10,Yes
+CHEVROLET Volt,1.5,4,CVT,2WD,Electricity,small car,7.0,113,99,106,10,Elite
+CHRYSLER 300,3.6,6,Auto-8,2WD,Gas,large car,3.0,19,30,23,5,No
+CHRYSLER 300,3.6,6,Auto-8,4WD,Gas,large car,3.0,18,27,21,4,No
+DODGE Charger,3.6,6,Auto-8,2WD,Gas,large car,3.0,19,30,23,5,No
+DODGE Charger,3.6,6,Auto-8,4WD,Gas,large car,3.0,18,27,21,4,No
+FORD Fusion Energi Plug-in Hybrid,2.0,4,CVT,2WD,Electricity,midsize car,7.0,102,91,97,10,Elite
+GMC Sierra 15,4.3,6,Auto-6,2WD,Gas,pickup,5.0,18,24,20,4,No
+GMC Sierra 15,4.3,6,Auto-6,4WD,Gas,pickup,5.0,17,22,19,3,No
+GMC Sierra 15,5.3,8,Auto-6,2WD,Gas,pickup,3.0,16,23,19,3,No
+GMC Yukon 1500,5.3,8,Auto-6,2WD,Gas,standard SUV,3.0,16,23,19,3,No
+GMC Yukon 1500,5.3,8,Auto-6,4WD,Gas,standard SUV,3.0,16,22,18,3,No
+GMC Yukon 1500 XL,5.3,8,Auto-6,2WD,Gas,standard SUV,3.0,16,23,19,3,No
+GMC Yukon XL 1500,5.3,8,Auto-6,4WD,Gas,standard SUV,3.0,16,22,18,3,No
+JEEP Cherokee,2.4,4,Auto-9,2WD,Gas,small SUV,3.0,21,30,25,5,No
+JEEP Cherokee,2.4,4,Auto-9,4WD,Gas,small SUV,3.0,21,28,23,5,No
+KARMA Revero,2.0,4,Auto-1,2WD,Electricity,small car,1.0,59,61,60,10,No
+MERCEDES-BENZ CLA250 4Matic,2.0,4,AutoMan-7,4WD,Gas,small car,5.0,24,32,27,6,No
+MERCEDES-BENZ GLA250 4Matic,2.0,4,AutoMan-7,4WD,Gas,small SUV,5.0,23,31,26,5,No
+MERCEDES-BENZ GLE350 4Matic,3.5,6,Auto-7,4WD,Gas,standard SUV,3.0,18,22,19,3,No
+MINI Cooper SE Countryman All4,1.5,3,SemiAuto-6,4WD,Electricity,midsize car,3.0,63,66,65,9,Yes
+TOYOTA Sequoia FFV,5.7,8,SemiAuto-6,4WD,Gas,standard SUV,5.0,13,17,14,1,No
+TOYOTA Tundra FFV,5.7,8,SemiAuto-6,4WD,Gas,pickup,5.0,13,17,15,2,No
+VOLVO S90,2.0,4,SemiAuto-8,4WD,Electricity,midsize car,7.0,70,72,71,10,Elite
+VOLVO XC 60,2.0,4,SemiAuto-8,4WD,Electricity,small SUV,7.0,60,58,59,10,Elite
+VOLVO XC 90,2.0,4,SemiAuto-8,4WD,Electricity,standard SUV,7.0,63,61,62,10,Elite
